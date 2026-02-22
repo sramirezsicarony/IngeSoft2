@@ -27,7 +27,7 @@ Se aplica separación de responsabilidades y principios SOLID para garantizar es
 - Spring Boot
 - Spring Data JPA
 - Hibernate
-- Base de datos relacional (MySQL / PostgreSQL)
+- Base de datos relacional (MySQL)
 - Maven
 
 ---
